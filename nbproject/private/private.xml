@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/user/servlet/DeleteOldDevice.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/user/servlet/RemoveDeviceCart.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/DAO/DeviceDAOImpl.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/entity/DeviceDtls.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/search.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/user/servlet/AddOldDevice.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/user/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/DAO/UserDAOImpl.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/entity/Device_Order.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/user/servlet/CartServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/view_device.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/all_laptop.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/checkout.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/all_comp/navbar.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/user/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/web/index.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/DAO/CartDAOImpl.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/TechKart/src/java/com/DB/DBConnect.java</file>
+        </group>
+    </open-files>
+</project-private>
